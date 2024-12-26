@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Песня с YouTube</title>
+</head>
+<body>
+    <h1>Текст песни</h1>
+    <p>Здесь можно вставить текст песни, который будет отображаться на странице.</p>
+
+    <h2>Слушать песню</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/XaBFjB0Kmrw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
